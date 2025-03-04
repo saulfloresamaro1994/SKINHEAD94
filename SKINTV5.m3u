@@ -211,6 +211,10 @@ http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9825
 
 
 
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png", :: Cartoon Network ::
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9858
 
@@ -236,12 +240,6 @@ http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/8336
 
 
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://tele-libre.org/img/unicable.webp" , UNICABLE
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/8382
 
@@ -251,64 +249,87 @@ http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/8400
 
 
 
-#EXTINF:-1 tvg-shift="-6", :: MC  ::
-http://181.78.105.146:2000/play/a01o/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png", :: TUDN ::
-https://bmf0aw9u.fubohd.com/tudn/mono.m3u8?token=ab28a9a323c922ab38ae32bd04574d20b93d1686-9e-1740944722-1740908722
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9603
 
 #EXTINF:-1 tvg-logo="https://television-libre.online/img/foxsports.png", :: FOX SPORTS latinoamerica HD ::
-https://8c5.pricesaskeloadsc.com/fox1ar/tracks-v1a1/mono.m3u8?token=3e5d138a9049eb04b5c317f5ac9a73d611d9f91d-2c-1740973351-1740940951
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9579
 
 #EXTINF:-1 tvg-logo="https://television-libre.online/img/foxsports2.png", :: Fox Sports 2 Latinoamérica HD ::
-https://dg9wzq.fubohd.com/foxsports2/mono.m3u8?token=2523e9de6d421f06b9a6319f7f25916dacbef06c-a8-1740984421-1740948421
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9585
 
 #EXTINF:-1 tvg-logo="https://television-libre.online/img/foxsports3.png", :: Fox Sports 3 Latinoamérica HD ::
-https://yw1hbwfy.fubohd.com/foxsports3/tracks-v1a1/mono.m3u8?token=f0db111ee074261afd53ac18d4303169227e6bf0-eb-1740984440-1740948440
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9592
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png", :: ESPN ::
-https://yw1hbwfy.fubohd.com/espn/tracks-v1a1/mono.m3u8?token=387ef5ce219ba3bc7c08c86b0b8573f6c613356c-54-1740984463-1740948463
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9524
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png", :: ESPN 2 ::
-https://bxvzc28.fubohd.com/espn2/tracks-v1a1/mono.m3u8?token=0253b58d4b5df7a16c4ae71e4a3cb5356bf066fb-f7-1740984489-1740948489
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9531
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png", :: ESPN 3 ::
-https://yxnobgu.fubohd.com/espn3/mono.m3u8?token=f700ecf59c6d03e4ffa28736ea46ca4a7903286d-01-1740984514-1740948514
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9535
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png", :: ESPN 4 ::
-https://yxnobgu.fubohd.com/espn4/mono.m3u8?token=02a542d8a042b6aa7a0ac4d6d0037e1ab81243b4-83-1740984534-1740948534
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9537
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png", :: ESPN 5 latinoamerica HD ::
-https://ymv0enrh.fubohd.com/espn5/mono.m3u8?token=48289ebed6626cb24760e48d0b756e7adeade423-b0-1740984553-1740948553
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png", :: ESPN 5 ::
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9539
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png", :: ESPN 6 ::
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9541
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png", :: ESPN 7 ::
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9573
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png", :: ESPN Premium ::
-https://dg9wzq.fubohd.com/espnpremium/mono.m3u8?token=2b5193a01c5f2b662b64244627fd800766092fc6-9e-1740984573-1740948573
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9548
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_8435_7_54564.png.876492c6068a010e266d9ba1fb9633e8.png", Claro Sports
-http://200.59.188.3:8000/play/a05j
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9556
 
-#EXTINF:-1 tvg-shift="-3"  group-title="TV4", Claro Sports 4
-http://204.157.251.250:8001/play/a058/index.m3u8
+#EXTINF:-1 tvg-logo="", Directv Sport +
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9558
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/1200px-Win_Sports_nuevo_logo.svg.png", Win Sports
-http://200.59.188.3:8000/play/a00n
+#EXTINF:-1 tvg-logo="", Directv Sport 1 AR
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9560
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1200px-Win_Sports%2B_logo.svg.png", Win Sports+
-http://200.59.188.3:8000/play/a028
+#EXTINF:-1 tvg-logo="", DAZN 1
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/103707
+
+#EXTINF:-1 tvg-logo="", DAZN 2
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/103710
+
+#EXTINF:-1 tvg-logo="", DAZN 3
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/103711
+
+#EXTINF:-1 tvg-logo="", DAZN 4
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/103712
 
 
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_5692_7_7924.png.0926b411a0b7abedd881ec0b7f2f3f58.png", :: EURO Channel ::
-http://204.157.251.250:8001/play/a00b/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://futvcr.com/wp-content/themes/futv-wp/assets/images/2x/whitelogo@2x.png", :: FUTV ::
-http://204.157.251.250:8001/play/a03j/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Sony_One_2024.png/revision/latest/scale-to-width-down/200?cb=20240808205124", SONY Comp
-http://200.59.188.3:8000/play/a0ca
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png", :: Lifetime ::
+
+
+
+
+
+
+
+
+
 http://177.93.46.163:8000/play/a00h
 
 #EXTINF:-1 tvg-logo="https://exa.tv/wp-content/themes/Exatv/img/logo_principal.png", :: Exa TV ::
