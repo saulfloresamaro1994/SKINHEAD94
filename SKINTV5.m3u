@@ -30,6 +30,11 @@ http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9698
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://tele-libre.org/img/studio.webp", :: Studio Universal ::
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9732
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Universal_Channel_2013.png/400px-Universal_Channel_2013.png", :: UNIVERSAL CHANNEL Latinoamerica ::
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9753
 
@@ -47,6 +52,10 @@ http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9766
 
 #EXTINF:-1 tvg-logo="https://television-libre.online/img/universalreality.webp", :: UNIVERSAL REALITY ::
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9771
+
+
+
+
 
 
 
@@ -115,12 +124,38 @@ http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9713
 #EXTINF:-1 tvg-logo="https://tele-libre.org/img/sonymovies.webp", SONY COMEDIAS
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9714
 
-#EXTINF:-1 tvg-logo="https://tele-libre.org/img/sonymovies.webp", TNT NOVELAS
+#EXTINF:-1 tvg-logo="https://sonyone.com.mx/sites/g/files/objgke226/files/styles/discover_menu_icon/public/2022-11/menu_icon_13219.png?itok=IlkFVN4E", Sony Novelas
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9716
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png", :: Space ::
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9717
 
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/star.webp", :: STAR latinoamerica ::
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9723
 
+#EXTINF:-1 tvg-shift="-4", :: STAR CHANNEL  ::
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9724
 
+#EXTINF:-1 tvg-shift="-4", :: STARZ  ::
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9727
+
+#EXTINF:-1 tvg-shift="-4", :: STAR Encore  ::
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9724
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png", :: SYFY ::
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9735
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/esstarwars/images/2/2c/Tnt_logo.png/revision/latest?cb=20091230061033", :: TNT ::
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9743
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png", TNT Novelas
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9747
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/200px-TNT_Series_Logo_2016.png", TNT SERIES
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9751
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png", :: Warner Latinoamérica  HD ::
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9774
 
 
 
@@ -136,39 +171,54 @@ http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9716
 
 
 #EXTINF:-1 tvg-logo="https://tele-libre.org/img/aplanet.webp", :: Animal Planet HD ::
-http://200.59.188.3:8000/play/a029
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9812
 
-
-#EXTINF:-1 tvg-logo="https://television-libre.online/img/disworld.webp", :: Discovery World ::
-http://204.157.251.250:8001/play/a03s/index.m3u8
+#EXTINF:-1 tvg-logo="", :: Discovery familia ::
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9783
 
 #EXTINF:-1 tvg-logo="https://television-libre.online/img/discovery.webp", :: Discovery Channel ::
-http://204.157.251.250:8001/play/a03r/index.m3u8
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9815
+
+#EXTINF:-1 tvg-logo="https://tele-libre.org/img/hyh.webp", :: Discovery Home & Health Latinoamerica HD ::
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9821
+
+#EXTINF:-1 tvg-shift="-4" , Discovery Science
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9786
 
 #EXTINF:-1 tvg-logo="https://tele-libre.org/img/distheater.webp", :: Discovery Theater HD ::
-http://204.157.251.250:8001/play/a02r/index.m3u8
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9787
 
 #EXTINF:-1 tvg-shift="-4" , Discovery Turbo
-http://200.59.188.3:8000/play/a045
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9830
+
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/disworld.webp", :: Discovery World ::
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9790
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/512px-History_Logo.svg.png", :: HISTORY ::
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9838
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png", :: H2LAHD ::
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9798
+
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/natgeo.webp", :: NATIONAL GEOGRAPHIC ::
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9805
+
+#EXTINF:-1 tvg-shift="-4", :: TLC LATINOAMERICA ::
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9825
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://tele-libre.org/img/diskids.webp", :: Discovery Kids ::
 http://181.189.243.251:8000/play/a0ob/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tele-libre.org/img/hyh.webp", :: Discovery Home & Health Latinoamerica HD ::
-http://204.157.251.250:8001/play/a02s/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/esstarwars/images/2/2c/Tnt_logo.png/revision/latest?cb=20091230061033", :: TNT ::
-http://204.157.251.250:8001/play/a02q/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/200px-TNT_Series_Logo_2016.png", TNT SERIES
-http://204.157.251.250:8001/play/a04y/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png", TNT Novelas
-http://200.59.188.3:8000/play/a02r
-
-#EXTINF:-1 tvg-shift="-4", :: TLC LATINOAMERICA ::
-http://200.59.188.3:8000/play/a07k
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png", :: Cartoon Network ::
@@ -178,16 +228,6 @@ http://45.166.92.22:58001/play/a03y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2022/04/e-Channel-vector-d800ed2b.png", :: E! Entertainment HD ::
 http://200.59.188.3:8000/play/a02h
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/512px-History_Logo.svg.png", :: HISTORY ::
-http://200.59.188.3:8000/play/a00e
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png", :: H2LAHD ::
-http://200.59.188.3:8000/play/a033
-
-#EXTINF:-1 tvg-logo="https://television-libre.online/img/natgeo.webp", :: NATIONAL GEOGRAPHIC ::
-http://204.157.251.250:8001/play/a03o/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tele-libre.org/img/food.webp", Food Network
@@ -276,36 +316,17 @@ http://177.93.46.163:8000/play/a02b
 http://177.93.46.163:8000/play/a004
 
 
-#EXTINF:-1 tvg-logo="https://television-libre.online/img/star.webp", :: STAR latinoamerica ::
-http://45.4.85.214:58001/play/a02p
-
-#EXTINF:-1 tvg-shift="-4", :: STAR latinoamerica HD ::
-http://200.59.188.3:8000/play/a01g
-
-
-#EXTINF:-1 tvg-logo="https://sonyone.com.mx/sites/g/files/objgke226/files/styles/discover_menu_icon/public/2022-11/menu_icon_13219.png?itok=IlkFVN4E", Sony Novelas
-http://200.59.188.3:8000/play/a0aa
-
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Sony_One_2024.png/revision/latest/scale-to-width-down/200?cb=20240808205124", SONY Comp
 http://200.59.188.3:8000/play/a0ca
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png", :: Space ::
-http://45.4.85.214:58001/play/a041
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png", :: SYFY ::
-http://177.93.46.163:8000/play/a00i
- 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png", :: Lifetime ::
 http://177.93.46.163:8000/play/a00h
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png", :: Telemundo ::
 http://177.93.46.163:8000/play/a01c
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png", :: Warner Latinoamérica  HD ::
-http://45.4.85.214:58001/play/a02q
 
 #EXTINF:-1 tvg-logo="https://exa.tv/wp-content/themes/Exatv/img/logo_principal.png", :: Exa TV ::
 http://181.189.243.251:8000/play/a0tu/index.m3u8
