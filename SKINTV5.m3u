@@ -31,33 +31,30 @@ http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9698
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Universal_Channel_2013.png/400px-Universal_Channel_2013.png", :: UNIVERSAL CHANNEL Latinoamerica ::
-https://gtechtecnologia.com/telelatino/play/80.m3u8omedy
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9753
 
 #EXTINF:-1 tvg-logo="https://television-libre.online/img/universalcinema.webp", :: UNIVERSAL CINEMA ::
-http://200.59.188.3:8000/play/a06u
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9757
 
 #EXTINF:-1 tvg-logo="https://television-libre.online/img/universalcomedy.webp", :: UNIVERSAL COMEDY ::
-https://gtechtecnologia.com/telelatino/play/91.m3u8
-
-#EXTINF:-1 tvg-logo="https://television-libre.online/img/universalpremiere.webp", :: UNIVERSAL PREMIERE ::
-http://200.59.188.3:8000/play/a06t
-
-#EXTINF:-1 tvg-logo="https://television-libre.online/img/universalreality.webp", :: UNIVERSAL REALITY ::
-http://204.157.251.250:8001/play/a02z/index.m3u8
-
-#EXTINF:-1 tvg-  logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-crime-dark-logo.png", :: UNIVERSAL REALITY ::
-http://204.157.251.250:8001/play/a030/index.m3u8
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9760
 
 #EXTINF:-1 tvg-  logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-crime-dark-logo.png", :: UNIVERSAL CRIME ::
-http://45.228.234.167:8000/play/a03k/index.m3u8
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9761
+
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/universalpremiere.webp", :: UNIVERSAL PREMIERE ::
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9766
+
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/universalreality.webp", :: UNIVERSAL REALITY ::
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9771
 
 
-#EXTINF:-1 tvg-logo="https://tele-libre.org/img/studio.webp", :: Studio Universal ::
-http://200.59.188.3:8000/play/a024
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/512px-Universal_TV_logo.svg.png", group-title="UNIVERSAL" :: Universal TV ::
-http://200.59.188.3:8000/play/a05a
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://tele-libre.org/img/ae.webp", :: A&E Latinoamerica ::
