@@ -2,22 +2,33 @@
 
 
 #EXTINF:-1 tvg-logo="https://television-libre.online/img/hbo.webp", :: HBO ::
-http://45.4.85.214:58001/play/a04u
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9666
 
 #EXTINF:-1 tvg-logo="https://television-libre.online/img/hbo2.webp", :: HBO 2 ::
-https://streamer1.nexgen.bz/HBO2/tracks-v1a2/mono.m3u8
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9672
 
 #EXTINF:-1 tvg-logo="https://tele-libre.org/img/hbofam.webp", :: HBO Family ::
-https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9676
+
+#EXTINF:-1 tvg-logo="https://tele-libre.org/img/hbofam.webp", :: HBO Mundi ::
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9682
 
 #EXTINF:-1 tvg-logo="https://tele-libre.org/img/hboplus.webp", :: HBO Plus HDTV ::
-https://streamer1.nexgen.bz/HBO_PLUS/tracks-v1a2/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://television-libre.online/img/hboxtreme.webp", :: HBO XREME HDTV ::
-https://streamer1.nexgen.bz/HBO_XTREME/tracks-v1a2/mono.m3u8
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9685
 
 #EXTINF:-1 tvg-logo="https://tele-libre.org/img/hbopop.webp", :: HBO POP HDTV ::
-https://streamer1.nexgen.bz/HBO_POP/tracks-v1a2/mono.m3u8
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9689
+
+#EXTINF:-1 tvg-logo="https://tele-libre.org/img/hbopop.webp", :: HBO SIGNATURE ::
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9692
+
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/hboxtreme.webp", :: HBO XREME HDTV ::
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9698
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Universal_Channel_2013.png/400px-Universal_Channel_2013.png", :: UNIVERSAL CHANNEL Latinoamerica ::
 https://gtechtecnologia.com/telelatino/play/80.m3u8omedy
