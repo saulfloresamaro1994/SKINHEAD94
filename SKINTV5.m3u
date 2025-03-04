@@ -211,49 +211,44 @@ http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9825
 
 
 
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png", :: Cartoon Network ::
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9858
 
 #EXTINF:-1 tvg-logo="https://tele-libre.org/img/diskids.webp", :: Discovery Kids ::
-http://181.189.243.251:8000/play/a0ob/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png", :: Cartoon Network ::
-http://45.166.92.22:58001/play/a03y/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2022/04/e-Channel-vector-d800ed2b.png", :: E! Entertainment HD ::
-http://200.59.188.3:8000/play/a02h
-
-
-#EXTINF:-1 tvg-logo="https://tele-libre.org/img/food.webp", Food Network
-http://200.59.188.3:8000/play/a02k
-
-
-#EXTINF:-1 tvg-logo="https://tele-libre.org/img/unicable.webp" , UNICABLE
-http://181.78.105.146:2000/play/a08f/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tele-libre.org/img/univision.png", Univision
-http://204.157.251.250:8001/play/a03u/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://tele-libre.org/img/disscience.webp", :: Discovery Science ::
-http://181.189.243.251:8000/play/a0ny/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tele-libre.org/img/turbo.webp", :: Discovery Turbo ::
-http://200.59.188.3:8000/play/a045
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9862
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png", :: Disney Channel ::
-http://200.59.188.3:8000/play/a00y
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9866
 
 
 #EXTINF:-1 tvg-logo="https://tele-libre.org/img/disneyjr.webp", :: Disney junior Latinoamérica ::
-http://177.93.46.163:8000/play/a00q
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9868
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png", :: Nick Jr ::
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9875
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png", :: Nickelodeon ::
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9873
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png", :: Telemundo ::
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/8336
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://tele-libre.org/img/unicable.webp" , UNICABLE
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/8382
+
+#EXTINF:-1 tvg-logo="https://tele-libre.org/img/univision.png", Univision
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/8400
+
+
 
 
 #EXTINF:-1 tvg-shift="-6", :: MC  ::
@@ -309,24 +304,12 @@ http://204.157.251.250:8001/play/a00b/index.m3u8
 #EXTINF:-1 tvg-logo="https://futvcr.com/wp-content/themes/futv-wp/assets/images/2x/whitelogo@2x.png", :: FUTV ::
 http://204.157.251.250:8001/play/a03j/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png", :: Nick Jr ::
-http://177.93.46.163:8000/play/a02b
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png", :: Nickelodeon ::
-http://177.93.46.163:8000/play/a004
-
-
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Sony_One_2024.png/revision/latest/scale-to-width-down/200?cb=20240808205124", SONY Comp
 http://200.59.188.3:8000/play/a0ca
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png", :: Lifetime ::
 http://177.93.46.163:8000/play/a00h
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png", :: Telemundo ::
-http://177.93.46.163:8000/play/a01c
-
 
 #EXTINF:-1 tvg-logo="https://exa.tv/wp-content/themes/Exatv/img/logo_principal.png", :: Exa TV ::
 http://181.189.243.251:8000/play/a0tu/index.m3u8
