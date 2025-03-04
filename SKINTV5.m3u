@@ -103,9 +103,20 @@ http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9661
 #EXTINF:-1 tvg-logo="", :: GOLDEN PLUS2 ::
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9662
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/6/66/Paramount%2B.png/revision/latest?cb=20220726031153&path-prefix=es", :: PARAMNT ::
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9707
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", :: SONY CHANNEL ::
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9711
 
+#EXTINF:-1 tvg-logo="https://tele-libre.org/img/sonymovies.webp", SONY CINE
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9713
 
+#EXTINF:-1 tvg-logo="https://tele-libre.org/img/sonymovies.webp", SONY COMEDIAS
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9714
+
+#EXTINF:-1 tvg-logo="https://tele-libre.org/img/sonymovies.webp", TNT NOVELAS
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9716
 
 
 
@@ -190,8 +201,6 @@ http://181.78.105.146:2000/play/a08f/index.m3u8
 http://204.157.251.250:8001/play/a03u/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/6/66/Paramount%2B.png/revision/latest?cb=20220726031153&path-prefix=es", :: PARAMNT ::
-http://204.157.251.250:8001/play/a03p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tele-libre.org/img/disscience.webp", :: Discovery Science ::
 http://181.189.243.251:8000/play/a0ny/index.m3u8
@@ -273,12 +282,6 @@ http://45.4.85.214:58001/play/a02p
 #EXTINF:-1 tvg-shift="-4", :: STAR latinoamerica HD ::
 http://200.59.188.3:8000/play/a01g
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", :: Sony ::
-http://45.4.85.214:58001/play/a02r
-
-
-#EXTINF:-1 tvg-logo="https://tele-libre.org/img/sonymovies.webp", Sony Movies
-http://45.166.92.22:58001/play/a00u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://sonyone.com.mx/sites/g/files/objgke226/files/styles/discover_menu_icon/public/2022-11/menu_icon_13219.png?itok=IlkFVN4E", Sony Novelas
 http://200.59.188.3:8000/play/a0aa
